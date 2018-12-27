@@ -519,7 +519,7 @@
 "Menu/Options/Controls/Control/Mortar mode","Režim moždíře"
 "Menu/Options/Controls/Control/Cancel Control","Zrušení kontroly_"
 "Menu/Options/Controls/Control/Call Reinforcement","Zavolat posily"
-"Menu/Options/Controls/Control/Bug report","Reportovat bug"
+"Menu/Options/Controls/Control/Bug report","Nahlásit bug"
 "Menu/Options/Controls/Control/Spyglass","Dalekohled"
 "Menu/Options/Controls/Control/Board enemy","Obsadit nepřítele"
 "Menu/Options/Controls/Control/Assign Crew","Přidělit posádku"
@@ -542,82 +542,82 @@ You can also catch sealed bottles leading to treasure
 Hold weight will affect your speed
 You can't catch anything in the Capital Waters
 Fishing will stop if your ship does not have free slots in hold"
-"ButtonsPanel/OW Open World Chat/Title","Tavern"
-"ButtonsPanel/OW Open World Chat/BulletPoints","Chat with players 
-Manage Clan
-Send mail"
-"ButtonsPanel/OW Open World Map/Title","Map"
-"ButtonsPanel/OW Open World Map/BulletPoints","Open map
-See your events, missions and shipwrecks"
-"ButtonsPanel/OW Open World Fleet/Title","Fleet"
-"ButtonsPanel/OW Open World Fleet/BulletPoints","Player and Fleet information
-Manage fleet
-Repair ships
-Replenish crew
-View your captain’s chest and rewards"
-"ButtonsPanel/OW Open World Hold/Title","Hold"
-"ButtonsPanel/OW Open World Hold/BulletPoints","Manage your cargo
-Check your ship hold
-Throw away cargo (Right click)"
-"ButtonsPanel/OW Open World Compass/Title","Compass"
-"ButtonsPanel/OW Bug Report/Title","Bug Report"
-"ButtonsPanel/OW Bug Report/BulletPoints","Report game issues and bugs"
-"ButtonsPanel/OW Flag_C/Title","Capital Area"
-"ButtonsPanel/OW Flag_C/BulletPoints","You can’t be attacked by enemy players
-Nobody is pulled into battle during attack
-You can’t call Reinforcement
-Battle is always open for entry
-Battle join type: Positional"
-"ButtonsPanel/OW Flag_C_Red/Title","Capital Area (Enemy)"
-"ButtonsPanel/OW Flag_C_Red/BulletPoints","You can’t attack capital area Nation
+"ButtonsPanel/OW Open World Chat/Title","Hospoda"
+"ButtonsPanel/OW Open World Chat/BulletPoints","Chatovat s hráči 
+Řídit klan
+Poslat zprávu"
+"ButtonsPanel/OW Open World Map/Title","Mapa"
+"ButtonsPanel/OW Open World Map/BulletPoints","Mapa otevřeného světa
+Události, mise a vraky"
+"ButtonsPanel/OW Open World Fleet/Title","Flotila"
+"ButtonsPanel/OW Open World Fleet/BulletPoints","Informace o hráči a flotile
+Řídit flotilu
+Opravit lodě
+Doplnit posádku
+Zobrazit kapitánovu truhlu a odměny"
+"ButtonsPanel/OW Open World Hold/Title","Nákladový prostor"
+"ButtonsPanel/OW Open World Hold/BulletPoints","Zorganizovat náklad
+Zkontrolovat nákladový prostor
+Vyhodit náklad (Kliknutí pravým)"
+"ButtonsPanel/OW Open World Compass/Title","Kompas"
+"ButtonsPanel/OW Bug Report/Title","Nahlásit bug"
+"ButtonsPanel/OW Bug Report/BulletPoints","Nahlásit problémy s hrou a bugy"
+"ButtonsPanel/OW Flag_C/Title","Oblast hlavního města"
+"ButtonsPanel/OW Flag_C/BulletPoints","Nemůžete s stát terčem útoku nepřátelského hráče
+Nikdo není vtažen do bitvy při útoku
+Nemůžete zavolat posily
+Bitva je vždy otevřená
+Způsob vstoupení do bitvy: poziční"
+"ButtonsPanel/OW Flag_C_Red/Title","Oblast hlavního města (nepřátelé)"
+"ButtonsPanel/OW Flag_C_Red/BulletPoints","**You can’t attack capital area Nation
 You can be attacked by everyone
 You can’t call Reinforcement
 Battle is always open for entry
 Battle join type: positional"
-"ButtonsPanel/OW Flag_R/Title","Reinforcement Area"
-"ButtonsPanel/OW Flag_R/BulletPoints","You can attack and be attacked by everyone
+"ButtonsPanel/OW Flag_R/Title","Oblast s posilami"
+"ButtonsPanel/OW Flag_R/BulletPoints","**You can attack and be attacked by everyone
 Nobody is pulled into battle during attack
 Reinforcement allowed only for our side
 Battle is always open for entry
 Battle join type: positional"
-"ButtonsPanel/OW Flag_R_Red/Title","Reinforcement Area (Enemy)"
-"ButtonsPanel/OW Flag_R_Red/BulletPoints","You can attack and be attacked by everyone
+"ButtonsPanel/OW Flag_R_Red/Title","Oblast s posilami (nepřátelé)"
+"ButtonsPanel/OW Flag_R_Red/BulletPoints","**You can attack and be attacked by everyone
 Nobody is pulled into battle during attack
 You can’t call Reinforcement
 Battle is open for 2 minutes for your side
 Battle join type: positional"
-"ButtonsPanel/OW Flag_P/Title","Patrol Area"
-"ButtonsPanel/OW Flag_P/BulletPoints","Fleet NPCs do not join the battle
+"ButtonsPanel/OW Flag_P/Title","Oblast hlídek"
+"ButtonsPanel/OW Flag_P/BulletPoints","**Fleet NPCs do not join the battle
 All players can join the battle
 Battle join type: 2 circles
 Battle is open for - 25 minutes
 Battle closes once battle rating limit is reached
 Sailing outside the battle circle will damage your ship
 Leave Battle is possible after 25 minutes of combat"
-"ButtonsPanel/OW Timer_IN/Title","Invisibility timer"
-"ButtonsPanel/OW Timer_IN/BulletPoints","Open world speed of your ship is greatly increased"
-"ButtonsPanel/OW Timer_IN/TextLines","You are invisible for everyone for"
-"ButtonsPanel/OW Timer_AT/Title","Attack and be attacked timer"
-"ButtonsPanel/OW Timer_AT/BulletPoints","You will not be pulled into battle during this time"
-"ButtonsPanel/OW Timer_AT/TextLines","You can't attack and be attacked for"
-"ButtonsPanel/OW Timer_J/Title","Join timer"
-"ButtonsPanel/OW Timer_J/TextLines","You can't join battles or use events for"
-"ButtonsPanel/OW Timer_PB/Title","PB timer"
-"ButtonsPanel/OW Timer_PB/TextLines","You can’t join to any PB for"
-"ButtonsPanel/OW Timer_RA/Title","Re-attack timer"
-"ButtonsPanel/OW Timer_RA/TextLines","You can't attack anyone for"
-"ButtonsPanel/OW Timer_X/Title","Recently killed flag"
-"ButtonsPanel/OW Timer_X/TextLines","Sinking your ship does not give rewards for"
-"ButtonsPanel/OW Fleet_Condition/Title","Condition"
-"ButtonsPanel/OW Fleet_Condition/DualStatsCaption","Armor"
-"ButtonsPanel/OW Fleet_ShipElementEmptyAvailable/Title","Available Ship Slot"
-"ButtonsPanel/OW Fleet_ShipElementEmptyAvailable/BulletPoints","This ship slot is available
-You can add ship to fleet"
-"ButtonsPanel/OW Fleet_ShipElementEmptyLock/Title","Locked Ship Slot"
-"ButtonsPanel/OW Fleet_ShipElementEmptyLock/BulletPoints","This ship slot is locked
-You need to have fleet perks to enable it"
-"ButtonsPanel/Port Clan Warehouse/Title","Clan Warehouse"
-"ButtonsPanel/Port Clan Warehouse/BulletPoints","Clan Warehouse"
+"ButtonsPanel/OW Timer_IN/Title","Odpočítávadlo neviditelnosti"
+"ButtonsPanel/OW Timer_IN/BulletPoints","Rychlost lodi na otevřeném moři je znatelně vyšší"
+"ButtonsPanel/OW Timer_IN/TextLines","Jste neviditelní pro všechno ostatní"
+"ButtonsPanel/OW Timer_AT/Title","Odpočítávadlo možnosti útoku"
+"ButtonsPanel/OW Timer_AT/BulletPoints","Během této doby nebudete vtažen do bitvy"
+"ButtonsPanel/OW Timer_AT/TextLines","Nemůžete zaútočit nebo se stát obětí útoku po"
+"ButtonsPanel/OW Timer_J/Title","Odpočítávadlo připojení se k bitvě"
+"ButtonsPanel/OW Timer_J/TextLines","Nemůžete se připojit do bitvy nebo využívat události po"
+"ButtonsPanel/OW Timer_PB/Title","Odpočítávadlo bitev o přístav"
+"ButtonsPanel/OW Timer_PB/TextLines","Nemůžete se zúčastnit bitev o přístav po"
+"ButtonsPanel/OW Timer_RA/Title","Odpočítávadlo opakovaného útoku"
+"ButtonsPanel/OW Timer_RA/TextLines","Nemůžete zaútočit na nikoho po"
+"ButtonsPanel/OW Timer_X/Title","Označení nedávného potopení"
+"ButtonsPanel/OW Timer_X/TextLines","Potopení vaší lodi nedá žádné odměny po"
+"ButtonsPanel/OW Fleet_Condition/Title","Status flotily"
+"ButtonsPanel/OW Fleet_Condition/DualStatsCaption","Pancíř"
+"ButtonsPanel/OW Fleet_ShipElementEmptyAvailable/Title","Zbývající místa pro lodi"
+"ButtonsPanel/OW Fleet_ShipElementEmptyAvailable/BulletPoints","Toto místo pro loď je volné
+Můžete přidat loď do flotily"
+"ButtonsPanel/OW Fleet_ShipElementEmptyLock/Title","Uzamčené místo pro loď"
+"ButtonsPanel/OW Fleet_ShipElementEmptyLock/BulletPoints","Toto míst pro loď je uzamčené
+Potřebujete flotilový perk_ pro jeho odemčení"
+"ButtonsPanel/Port Clan Warehouse/Title","Klanové skladiště"
+"ButtonsPanel/Port Clan Warehouse/BulletPoints","Klanové skladiště"
 "ButtonsPanel/Port Warehouse/Title","Warehouse"
 "ButtonsPanel/Port Warehouse/BulletPoints","Warehouse
 Press ALT + Left click on item to move it to hold of the main ship"
@@ -701,8 +701,8 @@ Can build outposts only in not enemy ports"
 "ButtonsPanel/OW Overload Warning/Title","Overload Warning"
 "ButtonsPanel/OW Overload Warning/BulletPoints","One of your ship is overloaded
 Your speed is decreased"
-"ButtonsPanel/Port Clan Warehouse Refresh/Title","Refresh Button"
-"ButtonsPanel/Port Clan Warehouse Refresh/BulletPoints","Refresh Clan Warehouse"
+"ButtonsPanel/Port Clan Warehouse Refresh/Title","Obnovit skladiště"
+"ButtonsPanel/Port Clan Warehouse Refresh/BulletPoints","Obnovit skladiště"
 "ButtonsPanel/Port Build Outpost/Title","Build Outpost"
 "ButtonsPanel/Port Build Outpost/BulletPoints","You can build outpost in this port"
 "ButtonsPanel/Port Buy Permit/Title","Buy Permit"
@@ -733,13 +733,13 @@ Your speed is decreased"
 "PlayerInformation/Repair/SelectShipMessage","Please select ship to repair. Only main and fleet ships are shown."
 "PlayerInformation/Repair/RepairInfoTitle","Repair Info"
 "PlayerInformation/Repair/Close","Close"
-"PlayerInformation/Warehouse/CloseConfirmation","Please type in 'close' (without quotes) to close clan warehouse"
-"PlayerInformation/Warehouse/CloseConfirmationFailed","Confirmation failed, clan warehouse is not closed"
+"PlayerInformation/Warehouse/CloseConfirmation","Please type in 'close' (without quotes) to close klanové skladiště"
+"PlayerInformation/Warehouse/CloseConfirmationFailed","Confirmation failed, klanové skladiště is not closed"
 "PlayerInformation/Warehouse/SelectAmount","Select Množství"
 "PlayerInformation/Warehouse/HowMuchToTake","How much of {0} you want to take?"
 "PlayerInformation/Warehouse/WithdrawingMessage","Withdrawing {0} of {1}..."
 "PlayerInformation/Warehouse/HowMuchToDeposit","How much {0} do you want to deposit?"
-"PlayerInformation/Warehouse/BuyMoreSlots","Buy {0} more clan warehouse slots for {1} {2}?"
+"PlayerInformation/Warehouse/BuyMoreSlots","Buy {0} more klanové skladiště slots for {1} {2}?"
 "OWBackend/UseMegaShipWreckPoint/WrongEventIndex","Wrong event index"
 "OWBackend/UseMegaShipWreckPoint/NotSailing","You need to be sailing to use events"
 "OWBackend/UseMegaShipWreckPoint/CantUseWhileTeleporting","Can't use while teleporting"
@@ -829,7 +829,7 @@ The fee for the ship will be lost."
 "Port/NavyPanel/RemoveFromSaleButton","Remove from sale"
 "Port/NavyPanel/PriceLabel","Price:"
 "Port/NavyPanel/HoursLeft","Hours left"
-"Port/Warehouse/Logs/Title","Clan Warehouse Logs"
+"Port/Warehouse/Logs/Title","klanové skladiště Logs"
 "Port/Warehouse/SelectAmount/EnterAmountPlaceholder","Enter Množství..."
 "Port/Warehouse/SelectAmount/Title","Select Množství"
 "Port/Warehouse/Title","Warehouse"
@@ -887,7 +887,7 @@ Please confirm that you want to skip the tutorial"
 "Port/Root/Repair/FailedTitle","Unable to repair ship"
 "Port/Root/PortRepairButton","""Port Repair"""
 "Port/Root/PortAdmiraltyButton","""Port Admiralty"""
-"Port/Root/PortClanWarehouseButton","""Port Clan Warehouse"""
+"Port/Root/PortClanWarehouseButton","""Port klanové skladiště"""
 "Port/Root/LeavePortButton","LEAVE PORT"
 "Port/Root/TutorialButton","TUTORIAL"
 "Port/Root/SailButton","SAIL"
@@ -1377,16 +1377,16 @@ Please wait {0} seconds Sir."
 "Port/InventoryItem/SendToWarehouseButton","Send to warehouse"
 "Port/InventoryItem/SendToHoldButton","Send to hold"
 "Port/InventoryItem/SendToChatButton","Send to chat"
-"Port/InventoryItem/SendToClanWarehouseButton","Send to clan warehouse"
+"Port/InventoryItem/SendToClanWarehouseButton","Send to klanové skladiště"
 "Port/InventoryItem/SendToClanWarehouse/Title","Send item?"
-"Port/InventoryItem/SendToClanWarehouse/Message","Are you sure that you want to send {0} {1} to clan warehouse?"
+"Port/InventoryItem/SendToClanWarehouse/Message","Are you sure that you want to send {0} {1} to klanové skladiště?"
 "Port/InventoryItem/Has/Upgrades","{0} upgrade(s)"
 "Port/InventoryItem/Has/NoUpgrades","no upgrades"
 "Port/InventoryItem/Has/Cannons","{0} cannon(s)"
 "Port/InventoryItem/Has/NoCannons","no cannons"
 "Port/InventoryItem/Has/Items","{0} item(s)"
 "Port/InventoryItem/Has/NoItems","no items"
-"Port/Clan/Error/NotInPortToAccessWarehouse","Player needs to be in port to access clan warehouse"
+"Port/Clan/Error/NotInPortToAccessWarehouse","Player needs to be in port to access klanové skladiště"
 "Port/Clan/Error/PlayerNotInClan","Player is not in clan"
 "Port/Clan/Error/CantFindClan","Unable to find clan"
 "Port/Clan/Error/PlayerNotMemberOfClan","Player is not a member of that clan"
@@ -1394,9 +1394,9 @@ Please wait {0} seconds Sir."
 "Port/Clan/Error/PlayerNotAllowedToWithdraw","Player is not allowed to withdraw {0}"
 "Port/Clan/Error/ShipItemsCanBeDepositOnlyFromHold","Ship items can be deposit only from hold"
 "Port/Clan/Error/DepositOfThisItemIsNotAllowed","Deposit of this item is not allowed"
-"Port/Clan/Error/ClanDontHaveWarehouse","Your clan doesn't have clan warehouse"
-"Port/Clan/Error/ClanWarehouseInOtherPort","Clan warehouse located in other port"
-"Port/Clan/Error/ClanWarehouseFull","Clan warehouse is full"
+"Port/Clan/Error/ClanDontHaveWarehouse","Your clan doesn't have klanové skladiště"
+"Port/Clan/Error/ClanWarehouseInOtherPort","klanové skladiště located in other port"
+"Port/Clan/Error/ClanWarehouseFull","klanové skladiště is full"
 "Port/Craft/Error/NoSpaceInShip","Not enough space in ship"
 "Port/Craft/Error/ShipWillBeOverloaded","Ship will be overloaded"
 "Port/Craft/Error/FleetShipIsNotActive","Fleet ship is not active, can't put item in it"
@@ -1573,7 +1573,7 @@ into leaderboard"
 "Port/Clan/Warehouse/OperationWithdraw","withdrawal"
 "Port/Clan/Warehouse/OperationDepositButton","Deposit"
 "Port/Clan/Warehouse/OperationWithdrawButton","Withdraw"
-"Port/Clan/Warehouse/Title","[{0}\ Clan Warehouse"
+"Port/Clan/Warehouse/Title","[{0}\ klanové skladiště"
 "Port/Clan/Warehouse/Error/Refresh/Title","Wait"
 "Port/Clan/Warehouse/Error/Refresh/Message","Please wait few more seconds before refreshing again"
 "Port/Clan/Warehouse/SlotsLabel","Slots"
@@ -1858,7 +1858,7 @@ State Clerk"
 "Mail/Conquest/CombatWon/Subject","Congratulations on the successful port battle"
 "Mail/Conquest/CombatWon/Body","To most noble and puissant lord {0}
 
-You have taken part in the glorious port battle for {1} and were granted a non hereditary title of Viscount of {2}. The nation is eternally grateful for your service to your country. Please make sure you have enough money to pay the city maintenance in the clan warehouse or in the clan creator wallet if you do not have a clan warehouse.
+You have taken part in the glorious port battle for {1} and were granted a non hereditary title of Viscount of {2}. The nation is eternally grateful for your service to your country. Please make sure you have enough money to pay the city maintenance in the klanové skladiště or in the clan creator wallet if you do not have a klanové skladiště.
 
 Signed
 State Clerk"
