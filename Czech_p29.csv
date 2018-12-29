@@ -460,9 +460,9 @@
 "Menu/Options/Sound/Coast","Zvuky pobřeží"
 "Menu/Options/Sound/DefaultButton","Základní"
 "Menu/Options/Controls/YouHaveUnassignedControls","Máte nepřiřazené ovládací prvky"
-"Menu/ExitDialog/Message","Skutečně chcete odejít?"
-"Menu/SurrenderDialog/Message","Skutečně se chcete vzdát?"
-"Menu/LeaveDialog/Message","Skutečně chcete opustit bitvu?"
+"Menu/ExitDialog/Message","Opravdu chcete odejít?"
+"Menu/SurrenderDialog/Message","Opravdu se chcete vzdát?"
+"Menu/LeaveDialog/Message","Opravdu chcete opustit bitvu?"
 "Menu/Options/Controls/Group/Common","Společné_"
 "Menu/Options/Controls/Group/Instance","Bitva"
 "Menu/Options/Controls/Group/Open World","Otevřený svět"
@@ -544,14 +544,14 @@ You can't catch anything in the Capital Waters
 Fishing will stop if your ship does not have free slots in hold"
 "ButtonsPanel/OW Open World Chat/Title","Hospoda"
 "ButtonsPanel/OW Open World Chat/BulletPoints","Chatovat s hráči 
-Řídit klan
+Spravovat klan
 Poslat zprávu"
 "ButtonsPanel/OW Open World Map/Title","Mapa"
 "ButtonsPanel/OW Open World Map/BulletPoints","Mapa otevřeného světa
 Události, mise a vraky"
 "ButtonsPanel/OW Open World Fleet/Title","Flotila"
 "ButtonsPanel/OW Open World Fleet/BulletPoints","Informace o hráči a flotile
-Řídit flotilu
+Spravovat flotilu
 Opravit lodě
 Doplnit posádku
 Zobrazit kapitánovu truhlu a odměny"
